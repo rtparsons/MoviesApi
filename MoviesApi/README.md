@@ -6,7 +6,7 @@ Given more time i would have like to have added a suite of integration tests for
 
 API endpoints
 
-A - Query movies based on filter - /api/movies
-B - Show top 5 movies based on average user rating - /api/movies/top5
-C - Show top 5 movies for a single user based on rating - /api/movies/user/1
+A - Query movies based on filter - /api/movies<br/>
+B - Show top 5 movies based on average user rating - /api/movies/top5<br/>
+C - Show top 5 movies for a single user based on rating - /api/movies/user/1<br/>
 D - Rate a movie - /api/movies/rate
